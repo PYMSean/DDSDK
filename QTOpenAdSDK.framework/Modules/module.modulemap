@@ -1,0 +1,6 @@
+framework module QTOpenAdSDK {
+  umbrella header "QTOpenAdSDK.h"
+
+  export *
+  module * { export * }
+}
